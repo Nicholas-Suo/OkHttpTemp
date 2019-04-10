@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OkHttpTemp</string>
+    <string name="download">Download</string>
+    <string name="pause">Pause</string>
 </resources>
